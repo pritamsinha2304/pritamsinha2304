@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Pritam Sinha**. I am a BTech Computer Science Engineer, currently looking for job. Currently a fresher.
+- 👋 Hi, I’m **Pritam Sinha**. I am a BTech Computer Science Engineer graduated in 2018, currently looking for job. Currently a fresher.
 
 - 👀 I’m interested in 
     1. Machine Learning
@@ -8,9 +8,6 @@
     5. Python
     6. Computer Vision
     7. NLP
-
-- 🌱 I’m currently learning 
-      Deep Learning, NLP, Computer Vision
     
 - 💞️ I’m looking to collaborate on Machine Learning projects, Quantum Computing projects. Love to do projects, it makes me learn lot of things.
 
