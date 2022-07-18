@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritam Sinha</h1>
 <h3 align="center">A passionate Data Scientist, ML, DL, NLP developer from India. I am a B.Tech graduate passed out in 2018 in the field of Computer Science and Engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamsinha2304&label=Profile%20views&color=0e75b6&style=flat" alt="pritamsinha2304" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritamsinha2304" alt="pritamsinha2304" /></a> </p>
 
 - 🔭 I’m interested in **Data Science, ML, DL, NLP, GAN, RL, App Development**
